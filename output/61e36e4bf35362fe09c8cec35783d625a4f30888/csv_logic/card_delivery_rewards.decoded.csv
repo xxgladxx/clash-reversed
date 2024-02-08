@@ -1,0 +1,7 @@
+Name,Spell,SpellAlt,Amount,Resource,EmoteIDHigh,EmoteIDLow,Chest,RandomSpell,SkinSet,Consumable,Banner,CustomImageSWF,CustomImageExportName,SupportCard,SupportCardAlt,RandomSupportCard
+string,string,string,int,string,int,int,string,string,int,string,string,string,string,string,string,string
+Test_1_Donation,Monk,,1,,,,,,,,,,,,,
+Test_1_Reward,,,,,,,,,,,DartGoblinFG,,,,,
+LittlePrince_Donation,LittlePrince,,1,,,,,,,,,,,,,
+LittlePrince_Reward,,,,,,,,,,,DartGoblinFG,,,,,
+LittlePrince_Reward2,,,,,,,,,,,DartGoblinBG,,,,,
